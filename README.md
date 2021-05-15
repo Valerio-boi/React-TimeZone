@@ -1,10 +1,10 @@
 # React-TimeZone
 
+![Project img](https://github.com/Valerio-boi/React-TimeZone/blob/main/img.png)
+
 <h1>What's this</h1>
 
 > React time zone is a simple project, showing the time difference of 6 countries.
-
-![Project img](https://github.com/Valerio-boi/React-TimeZone/blob/main/img.png)
 
 <h1>
 How to start it and view the code

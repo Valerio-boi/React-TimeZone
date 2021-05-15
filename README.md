@@ -1,6 +1,6 @@
 # React-TimeZone
 
-![Test Image 4](https://github.com/Valerio-boi/React-TimeZone/img.png)
+![Project img](https://github.com/Valerio-boi/React-TimeZone/blob/main/img.png)
 
 <h1>What's this</h1>
 
